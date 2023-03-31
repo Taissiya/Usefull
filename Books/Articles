@@ -1,12 +1,4 @@
 Базы данных: 
-  - Сравнение диалектов SQL:
-
-[http://troels.arvin.dk/db/rdbms/](http://troels.arvin.dk/db/rdbms/)
-
-- Как БД работают изнутри:
-
-[https://habr.com/ru/company/mailru/blog/266811/](https://habr.com/ru/company/mailru/blog/266811/)
-
 SQL:
 
 [https://learndb.ru/](https://learndb.ru/)
@@ -24,3 +16,50 @@ NoSQL:
 - Cassandra:
 
 [https://proselyte.net/tutorials/cassandra/](https://proselyte.net/tutorials/cassandra/)
+
+На инглише:
+
+SQL:
+
+- 
+
+[https://www.w3schools.com/sql/](https://www.w3schools.com/sql/)
+
+Литература:
+
+- Прибыл Фейерштейн. Oracle PL/SQL. Для профессионалов - если уметь исказть, можно найти бесплатно без СМС и на русском.
+- Алан Бьюли. Изучаем SQL. - про MySQL, тоже легко находится. Довольно старая, но базовые вещи не сильно меняются.
+- К. Дж. Дейт. Введение в системы баз данных - талмуд на овер 1000 страниц.
+- Томас Кайт. Oracle для профессионалов - тоже талмуд.
+
+ETL, OLAP, DWH и другие умные слова:
+
+- 
+
+[https://www.youtube.com/watch?v=WPZuzDJXs-Q&list=PLhhjwMYxzolhP29LSPPwORVQxJX5OjYix](https://www.youtube.com/watch?v=WPZuzDJXs-Q&list=PLhhjwMYxzolhP29LSPPwORVQxJX5OjYix)
+
+- OLAP DAX Power BI:
+
+[https://www.youtube.com/playlist?list=PLhhjwMYxzolhXuySjLR2_n-xb6VvWnjju](https://www.youtube.com/playlist?list=PLhhjwMYxzolhXuySjLR2_n-xb6VvWnjju)
+
+Прочее:
+
+- 
+
+[https://dbdb.io/](https://dbdb.io/)
+
+- 
+
+[https://db.cs.cmu.edu/](https://db.cs.cmu.edu/)
+
+- 
+
+[https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
+
+- Сравнение диалектов SQL:
+
+[http://troels.arvin.dk/db/rdbms/](http://troels.arvin.dk/db/rdbms/)
+
+- Как БД работают изнутри:
+
+[https://habr.com/ru/company/mailru/blog/266811/](https://habr.com/ru/company/mailru/blog/266811/)
