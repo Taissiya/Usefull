@@ -63,3 +63,10 @@ ETL, OLAP, DWH и другие умные слова:
 - Как БД работают изнутри:
 
 [https://habr.com/ru/company/mailru/blog/266811/](https://habr.com/ru/company/mailru/blog/266811/)
+
+
+The Kibana Query Language (KQL) 
+https://www.elastic.co/guide/en/kibana/current/kuery-query.html
+
+Lucene query syntax
+https://www.elastic.co/guide/en/kibana/current/lucene-query.html
